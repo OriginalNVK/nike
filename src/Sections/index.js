@@ -1,5 +1,5 @@
 import CustomerReviews from "./CustomerReviews";
-import Footer from "./Footer";
+import Footer from "../components/Footer";
 import Hero from "./Hero";
 import PopularProducts from "./PopularProducts";
 import Services from "./Services";

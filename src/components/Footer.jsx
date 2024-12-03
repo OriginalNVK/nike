@@ -1,6 +1,6 @@
 import { footerLogo } from '../assets/images'
 import { socialMedia } from '../constants'
-import SocialButton from '../components/SocialButton'
+import SocialButton from './SocialButton'
 import { footerLinks } from '../constants'
 import {copyrightSign}  from '../assets/icons'
 
